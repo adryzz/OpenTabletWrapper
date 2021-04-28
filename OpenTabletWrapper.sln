@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTabletWrapper", "OpenTabletWrapper\OpenTabletWrapper.csproj", "{69CCE953-86F6-4EED-BD6F-4AF3B63886CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69CCE953-86F6-4EED-BD6F-4AF3B63886CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CCE953-86F6-4EED-BD6F-4AF3B63886CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CCE953-86F6-4EED-BD6F-4AF3B63886CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CCE953-86F6-4EED-BD6F-4AF3B63886CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C99A9AD4-F9D3-4AB7-8AEE-43EF0D901629}
+	EndGlobalSection
+EndGlobal
